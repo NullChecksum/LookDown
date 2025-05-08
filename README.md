@@ -3,6 +3,9 @@
 This repository contains a **curated list of .onion URLs** (Tor hidden services) strictly for **educational, academic, and cybersecurity research purposes**.
 #### It represents roughly **20% of a broader compilation effort**, selected and reviewed during a **multi-week investigation** into the structure and visibility of accessible hidden services on the Tor network.
 
+
+If you are here maybe i showed you this repo and i can share more with you :)
+
 ⚠️ **DISCLAIMER**  
 I take **no responsibility** for the content hosted on the external .onion domains listed. These links are **publicly available** and were gathered from multiple open sources (e.g. dark web search engines, public directories).
 ###I do not control, endorse, or encourage the use of any site linked herein.
@@ -14,7 +17,6 @@ Because getting banned for sharing an academic resource is a terrible way to end
 Because GitHub doesn't like links to black markets.  
 Because context matters, and this context is **documentation, indexing, and visibility**.
 
-If you are here maybe i showed you this repo and i can share more with you :)
 
 🧭 **What’s Inside?**  
 - Search engines and indexers (.onion)
